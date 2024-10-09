@@ -3,7 +3,7 @@
 
 - I'm new to this field and always open to different ideas. Breaking coffee-drinking records while trying to figure out code.
 - Got questions or want to contact me?
-- Reach me at ![image](https://github.com/user-attachments/assets/8319e6b9-e414-4ebe-afdb-81e892dcc4e0)[hande.bayuek@gmail.com]!
+- Reach me at .[hande.bayuek@gmail.com]!
 
  ## My-Skills 
  
