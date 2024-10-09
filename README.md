@@ -3,7 +3,8 @@
 
 - 🌍 I'm based in Berlin
 - 🌱 I’m currently studying at DCI
-- I'm new to this field and always open to different ideas and my goal? To constantly improve myself!
+- I'm new to this field and always open to different ideas
+- My goal is to constantly improve myself!
 - 🖌️ Another hobby of mine is drawing digital pictures with using Procreate.
 
 
