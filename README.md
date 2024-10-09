@@ -32,6 +32,7 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%2304C38E.svg?style=for-the-badge&logo=responsive&logoColor=white) 
 
 #### Version Control and Publishing
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 #### Database and Server Technologies
