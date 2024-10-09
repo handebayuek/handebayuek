@@ -1,14 +1,9 @@
-# Hello 🤗
 
-## I am Hande 👾
+# Hi, I am Hande 
 
-- I am learning Web Development
-
-     ![alt Text](https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47ahdidvhrfyz65oa3unlppydtajjpodbwzft36sxv&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
-- I have been living in Berlin for 3 years.
-
-- I like digital drawing, watercolor painting, walking in nature, cycling and reading.
+- I'm new to this field and always open to different ideas. Breaking coffee-drinking records while trying to figure out code.
+- Got questions or want to contact me?
+- Reach me at ![image](https://github.com/user-attachments/assets/8319e6b9-e414-4ebe-afdb-81e892dcc4e0)[hande.bayuek@gmail.com]!
 
  ## My-Skills 
  
