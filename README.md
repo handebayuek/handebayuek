@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in Berlin
 - 🌱 I’m currently studying at DCI
-- 👨‍💻 I'm new to this field and always open to different ideas. Breaking coffee-drinking records while trying to figure out code.
+- I'm new to this field and always open to different ideas and my goal? To constantly improve myself!
 - 🖌️ Another hobby of mine is drawing digital pictures with using Procreate.
 
 
