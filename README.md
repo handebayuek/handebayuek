@@ -9,7 +9,7 @@
 
 
 #### Got questions or want to contact me?
- > ✉️ [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
+✉️ [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
 
   
 
