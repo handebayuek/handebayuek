@@ -8,7 +8,7 @@
 
 
 ### Got questions or want to contact me?
-- ✉️ Reach me at! [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
+- ✉️ [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
 
   
 
