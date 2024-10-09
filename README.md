@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 77d652beecec8a4596df582083c837817187bd41
 # Hi, I am Hande
 
 - I'm new to this field and always open to different ideas. Breaking coffee-drinking records while trying to figure out code.
