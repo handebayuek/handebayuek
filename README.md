@@ -1,12 +1,12 @@
 
-# Hi, I am Hande 
+# Hi, I am Hande
 
 - I'm new to this field and always open to different ideas. Breaking coffee-drinking records while trying to figure out code.
 - Got questions or want to contact me?
-- Reach me at .[hande.bayuek@gmail.com]!
+- ✉️ Reach me at! [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
 
- ## My-Skills 
- 
+## My-Skills
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
