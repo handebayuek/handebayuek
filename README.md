@@ -44,3 +44,9 @@
 
 **API Testing and Development Tools**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ⌛ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
