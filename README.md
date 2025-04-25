@@ -49,4 +49,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=handebayuek&show_icons=true&theme=dark)
 
