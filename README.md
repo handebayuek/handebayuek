@@ -8,7 +8,7 @@
 - 🖌️ Another hobby of mine is drawing digital pictures using Procreate.
 
 
-# # # # You have some questions, or would you like to contact me?
+# You have some questions, or would you like to contact me?
 ✉️ [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
 
   
