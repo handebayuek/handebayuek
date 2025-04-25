@@ -4,11 +4,11 @@
 - 🌍 I'm based in Berlin
 - 🌱 I graduated from DCI Web Development
 - I'm new to this field and always open to different ideas
-- My goal is to constantly improve myself!
-- 🖌️ Another hobby of mine is drawing digital pictures with using Procreate.
+- My goal is to improve myself constantly!
+- 🖌️ Another hobby of mine is drawing digital pictures using Procreate.
 
 
-#### Got questions or want to contact me?
+# # # # You have some questions, or would you like to contact me?
 ✉️ [hande.bayuek@gmail.com](mailto:hande.bayuek@gmail.com)
 
   
