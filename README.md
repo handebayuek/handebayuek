@@ -50,7 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 11 mins    █████████████████████████   100.00 %
+From: 20 April 2025 - To: 27 April 2025
+
+Total Time: 1 hr 11 mins
+
+TypeScript   1 hr 11 mins    eeeeeeeeeeeeeeeeeeeeeeeee   100.00 %
 ```
 
 <!--END_SECTION:waka-->
