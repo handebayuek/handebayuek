@@ -50,11 +50,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Total Time: 5 hrs 36 mins
+Total Time: 6 hrs 6 mins
 
-TypeScript   5 hrs 36 mins   eeeeeeeeeeeeeeeeeeeeeeeee   100.00 %
+TypeScript   5 hrs 49 mins   eeeeeeeeeeeeeeeeeeeeeeeet   95.35 %
+CSS          14 mins         etttttttttttttttttttttttt   03.97 %
+JavaScript   2 mins          ttttttttttttttttttttttttt   00.66 %
+TSConfig     0 secs          ttttttttttttttttttttttttt   00.02 %
 ```
 
 <!--END_SECTION:waka-->
