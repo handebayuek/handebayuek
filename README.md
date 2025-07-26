@@ -50,16 +50,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2025 - To: 23 July 2025
+From: 17 July 2025 - To: 24 July 2025
 
-Total Time: 3 hrs 8 mins
+Total Time: 3 hrs 56 mins
 
-TypeScript    2 hrs 50 mins   eeeeeeeeeeeeeeeeeeeeeeutt   90.42 %
-JavaScript    7 mins          etttttttttttttttttttttttt   03.94 %
-JSON          3 mins          utttttttttttttttttttttttt   02.09 %
-HTML          3 mins          rtttttttttttttttttttttttt   01.81 %
-Image (svg)   2 mins          rtttttttttttttttttttttttt   01.20 %
-CSS           0 secs          ttttttttttttttttttttttttt   00.44 %
+TypeScript    3 hrs 38 mins   eeeeeeeeeeeeeeeeeeeeeeett   92.37 %
+JavaScript    7 mins          utttttttttttttttttttttttt   03.13 %
+JSON          3 mins          rtttttttttttttttttttttttt   01.67 %
+HTML          3 mins          rtttttttttttttttttttttttt   01.44 %
+Image (svg)   2 mins          rtttttttttttttttttttttttt   00.95 %
+CSS           0 secs          ttttttttttttttttttttttttt   00.35 %
 ```
 
 <!--END_SECTION:waka-->
